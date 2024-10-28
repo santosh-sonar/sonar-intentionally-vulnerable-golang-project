@@ -1,4 +1,6 @@
-# Intentionally vulnerable Golang project
+# Sonar Intentionally vulnerable Golang project
+
+Forked from https://github.com/sonatype-nexus-community/intentionally-vulnerable-golang-project with configuration to scan with Sonarqube community / Enterprise / Cloud
 
 [![Build Status](https://travis-ci.org/sonatype-nexus-community/intentionally-vulnerable-golang-project.svg?branch=master)](https://travis-ci.org/sonatype-nexus-community/intentionally-vulnerable-golang-project) [![CircleCI](https://circleci.com/gh/sonatype-nexus-community/intentionally-vulnerable-golang-project.svg?style=shield)](https://circleci.com/gh/sonatype-nexus-community/intentionally-vulnerable-golang-project)
 
